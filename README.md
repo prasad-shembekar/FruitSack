@@ -4,7 +4,7 @@ Webapp designed for connecting with fruit vendors and customers to help users bu
 
 ## Home Page
 
-
+![Home Page](https://github.com/prasad-shembekar/FruitSack/assets/89524884/e7710086-c2a6-4a5c-930e-932cc3c9cd33)
 
 ## Installation
 
